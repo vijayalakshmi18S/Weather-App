@@ -1,0 +1,1 @@
+A simple weather app built with HTML and CSS that displays current weather conditions, temperature, and location. Clean layout with responsive design, using icons and styles to visually represent different weather types. Ideal for learning basic frontend development.
